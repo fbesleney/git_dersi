@@ -3,3 +3,5 @@ Hello World!
 Hello World!
 
 Hello World!
+
+Merhaba Pull Request exercise yapıyoruz.
